@@ -58,7 +58,7 @@ var attraction = function (name, location, url, wiki) {
             url: 'https://api.flickr.com/services/rest?method=flickr.photos.search&api_key=6cf32b7431855ee07e7a0749b21399b2&format=json&nojsoncallback=1&per_page=3&sort=relevance&text='+ this.name,
             success: function (result) {
                 console.log('ajax was a success' + result);
-                $("#photo"  + interest + index).html(""); //clears the photo divs
+                $("#photo"  + interest + index).html(""); //clears the photo divs   //is this appending to the class photo div?
 
                 global_result = result;
                 for (var i = 0; i < global_result.photos.photo.length; i++) {
