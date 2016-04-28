@@ -1,35 +1,19 @@
-# C7_Hackathon
-Hackathon project involving the combination of different data sources into an application or game
+# Destination to Fun
 
-### Requirements
-- Combine at least 2 **external** resources via AJAX requests and present their information in an application
+[Live Demo](http://paully28.github.io/C7_Hackathon)
 
+Destination to Fun is a travel ideas application that utilizes Flickr, Google Maps, and Wikipedia APIs called with AJAX made during the LearningFuze C7 Hackathon. This app is made with HTML, CSS, Javascript/jQuery, AJAX, and Bootstrap. 
 
-### Judging Criteria
-- **Appeal** : is it visually appealing / well put together
-- **Code Quality** : is the code properly formatted, are variables and functions well defined and documented
-- **Presentation** : How well is it presented during the unveiling session
-- **Task / Issue Management** : How well was the development process documented / controlled.  Were there well-defined issues, milestones, and project management
-- **Innovative / Transformative** : Did the project do something new and exciting?  Was it bold and tried to do things that haven't been done much.  Did it combine the data sources together in a way that was more useful than either source by itself
-- **Ease of Use / Understanding** : Was it easy to use the application / game, or if it was more complex, was the application or game able to provide you with tutorials or instructions that made understanding it a breeze.
+Currently, this app only displays travel destinations for California, New York, and Florida. 
 
-
-### Deadline: 
-- 5:30PM Friday, February 19th 2016
-
-###Team Swimmingly Red Birdie
-- Paul
+## Contributors 
+- Paul: Project Lead
 - Deanna
 - Srayuth
 - Jaison
 - Max
 - Trisha
 
-###Description
-Destination to Fun is an app that provides lists of the top attractions in
-the US. For each attraction, photos from flickr, a description
-from wikipedia, and the google maps coordinates are displayed. A link to
-the attraction's website is also provided in the title of the attraction.
-This is a great way to find ideas for your next vacation in the US!
-
-
+## Features
+- Dynamic content based on user input
+- Getting information from Flickr, Google Maps, and Wikipedia
