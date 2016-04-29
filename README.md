@@ -2,7 +2,7 @@
 
 [Live Demo](http://paully28.github.io/C7_Hackathon)
 
-Destination to Fun is a travel ideas application that utilizes Flickr, Google Maps, and Wikipedia APIs called with AJAX made during the LearningFuze C7 Hackathon. This app is made with HTML, CSS, Javascript/jQuery, AJAX, and Bootstrap. 
+Destination to Fun is a travel ideas application made during the LearningFuze C7 Hackathon that utilizes Flickr, Google Maps, and Wikipedia APIs called with AJAX. This app is made with HTML, CSS, Javascript/jQuery, AJAX, and Bootstrap. 
 
 Currently, this app only displays travel destinations for California, New York, and Florida. 
 
